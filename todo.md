@@ -1,0 +1,2 @@
+- [ ] stopinterview after 4 questions or so
+- [ ] feedback processing
